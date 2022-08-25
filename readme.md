@@ -1,7 +1,7 @@
 # Bus Tracker Exercise
 ## Real Time Tracking
 
-<img src= "" width='512'/>
+<img src= "map.png" width='512'/>
 
 In this exercise, a map is created from Google Maps API. Then, markers are added from the buses locations fetched from MBTA, the markers are real-time updated every 15 seconds, showing the bus movement from MIT to Cambridge. Also, southbound and northbound routes are color coded.
 
