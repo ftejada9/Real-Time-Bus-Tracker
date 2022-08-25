@@ -5,6 +5,8 @@
 
 In this exercise, a map is created from Google Maps API. Then, markers are added from the buses locations fetched from MBTA, the markers are real-time updated every 15 seconds, showing the bus movement from MIT to Cambridge. Also, southbound and northbound routes are color coded.
 
+A future improvement will add an 'update' button, if the user does not want to wait for 15 seconds in a given moment.
+
 ---
 MIT License
 
